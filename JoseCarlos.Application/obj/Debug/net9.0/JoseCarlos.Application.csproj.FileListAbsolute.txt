@@ -1,0 +1,68 @@
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Application.deps.json
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Application.dll
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Application.pdb
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Domain.dll
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Infraestructure.dll
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Infraestructure.pdb
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Domain.pdb
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.csproj.AssemblyReference.cache
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.AssemblyInfoInputs.cache
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.AssemblyInfo.cs
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarl.8EA714EB.Up2Date
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.dll
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/refint/JoseCarlos.Application.dll
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.pdb
+C:/Users/Usuario/source/repos/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/ref/JoseCarlos.Application.dll
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Application.deps.json
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Application.dll
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Application.pdb
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Domain.dll
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Infraestructure.dll
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Infraestructure.pdb
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/bin/Debug/net9.0/JoseCarlos.Domain.pdb
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.csproj.AssemblyReference.cache
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.AssemblyInfoInputs.cache
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.AssemblyInfo.cs
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.csproj.CoreCompileInputs.cache
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarl.8EA714EB.Up2Date
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.dll
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/refint/JoseCarlos.Application.dll
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/JoseCarlos.Application.pdb
+/run/media/jose/TOSHIBA EXT/.Aaaaaaaaaaa/JoseCarlosAdmisión/JoseCarlos.Application/obj/Debug/net9.0/ref/JoseCarlos.Application.dll
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Application.deps.json
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Application.dll
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Application.pdb
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Domain.dll
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Infraestructure.dll
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Infraestructure.pdb
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Domain.pdb
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.csproj.AssemblyReference.cache
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.AssemblyInfoInputs.cache
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.AssemblyInfo.cs
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.csproj.CoreCompileInputs.cache
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\obj\Debug\net9.0\JoseCarl.8EA714EB.Up2Date
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.dll
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\obj\Debug\net9.0\refint\JoseCarlos.Application.dll
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.pdb
+E:\.Aaaaaaaaaaa\JoseCarlosAdmisión\JoseCarlos.Application\obj\Debug\net9.0\ref\JoseCarlos.Application.dll
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Application.deps.json
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Application.dll
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Application.pdb
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Domain.dll
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Infraestructure.dll
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Infraestructure.pdb
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\bin\Debug\net9.0\JoseCarlos.Domain.pdb
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.csproj.AssemblyReference.cache
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.AssemblyInfoInputs.cache
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.AssemblyInfo.cs
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\obj\Debug\net9.0\JoseCarl.8EA714EB.Up2Date
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.dll
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\obj\Debug\net9.0\refint\JoseCarlos.Application.dll
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\obj\Debug\net9.0\JoseCarlos.Application.pdb
+C:\Users\Jose\Pictures\.Aaaaaaaaaaa\JoseCarlosAdmision\JoseCarlos.Application\obj\Debug\net9.0\ref\JoseCarlos.Application.dll
