@@ -1,76 +1,98 @@
 # 🎫 AdmisionOperCanarios
 
-> Plataforma de control de acceso desarrollada para **Grupo Oper**, destinada a verificar y regular la entrada de clientes en salas de juego.  
-> El sistema integra evaluaciones internas y validaciones con organismos gubernamentales para permitir o denegar el acceso según distintos perfiles de riesgo.
+> Access control platform developed for **Grupo Oper**, designed to manage and regulate customer entry to gaming venues.  
+> The system integrates internal evaluations and government database checks to allow or deny access based on customer risk profiles.
 
 ---
 
-## 📘 Descripción
+## 🧭 Overview
 
-**AdmisionOperCanarios** es una solución digital diseñada para controlar el acceso a establecimientos de Grupo Oper en Canarias y Madrid. El sistema evalúa en tiempo real si un cliente debe ser admitido o no, cruzando datos con registros internos y fuentes oficiales.
-
-Permite identificar clientes conflictivos, personas con autoprohibición por ludopatía u otras restricciones, y actuar en consecuencia según criterios normativos y operativos. Su objetivo es garantizar un entorno seguro, legalmente conforme y alineado con la responsabilidad social corporativa.
+**AdmisionOperCanarios** is a web-based solution for managing real-time access to gaming venues. It identifies restricted or flagged individuals and ensures compliance with industry regulations and safety protocols. The platform allows operators to automatically assess entry eligibility based on behavioral flags or voluntary exclusion lists.
 
 ---
 
-## 🧰 Tecnologías utilizadas
+## 🧰 Tech Stack and Tools
 
-| Capa          | Tecnología            |
-|---------------|------------------------|
-| Backend       | ASP.NET Core (C#)      |
-| Frontend      | React.js               |
-| Base de Datos | MongoDB                |
-| Autenticación | JSON Web Tokens (JWT)  |
-| DevOps        | Docker, GitHub Actions |
+| Area                | Technologies / Tools                           |
+|---------------------|-------------------------------------------------|
+| Backend Language    | C#                                              |
+| Backend Framework   | ASP.NET Core                                    |
+| Frontend Language   | JavaScript                                      |
+| Frontend Framework  | React.js                                        |
+| Database            | MariaDB (managed via HeidiSQL)                 |
+| API Testing         | Postman                                         |
+| Security            | JSON Web Tokens (JWT), custom middleware        |
+| Containers          | Docker, docker-compose                          |
+| Version Control     | Git + GitHub                                    |
+| CI/CD               | GitHub Actions                                  |
 
 ---
 
-## 🗂️ Estructura del proyecto
+## 🧩 Project Structure
 
 ```
 AdmisionOperCanarios/
-├── frontend/      # Interfaz web construida con React
-├── backend/       # API REST desarrollada en ASP.NET Core
-└── docker-compose.yml
+├── frontend/          # React web interface
+├── backend/           # ASP.NET Core RESTful API
+│   ├── Controllers/   # HTTP endpoints
+│   ├── Services/      # Business logic
+│   └── Models/        # Domain entities
+├── docker-compose.yml # Docker orchestration
+└── README.md
 ```
 
 ---
 
-## ⚙️ Instalación y despliegue
+## 🚀 Local Deployment
 
-1. Clona el repositorio:
+### Clone the repository
 
 ```bash
 git clone https://github.com/JoseGlezHerrera/AdmisionOperCanarios.git
 cd AdmisionOperCanarios
 ```
 
-2. Ejecuta la aplicación en modo desarrollo:
+### Start with Docker
 
 ```bash
 docker-compose up --build
 ```
 
----
-
-## 🔐 Autenticación
-
-El sistema utiliza autenticación mediante **JWT**, aplicando middleware en ASP.NET Core para proteger endpoints sensibles y aplicar políticas según roles definidos.
+The app will run on your default browser (e.g., http://localhost:3000).
 
 ---
 
-## 📡 API – Ejemplos
+## 🔐 Security and Access Control
+
+- Authentication via **JSON Web Tokens (JWT)**
+- Identity validation with custom middleware in ASP.NET Core
+- Role-based access and policy enforcement
+
+---
+
+## 🔄 Functional Workflow
+
+1. The operator inputs a customer's **DNI** (national ID).
+2. The system checks:
+   - Internal lists of flagged or problematic individuals.
+   - Official exclusion records (e.g., self-banned from gambling).
+3. An automatic access **decision is returned**.
+4. All access attempts are **logged for auditing**.
+
+---
+
+## 📡 REST API – Examples
 
 ### `GET /api/clients`
 
 ```json
 [
   {
-    "id": "abc123",
-    "name": "Juan Pérez",
-    "dni": "12345678A",
-    "entryDate": "2025-05-14T10:00:00Z",
-    "status": "conflictivo"
+    "id": "1",
+    "name": "María González",
+    "dni": "98765432Z",
+    "entryDate": "2025-05-14T11:12:00Z",
+    "status": "normal"
   }
 ]
 ```
@@ -79,26 +101,30 @@ El sistema utiliza autenticación mediante **JWT**, aplicando middleware en ASP.
 
 ```json
 {
-  "name": "Lucía López",
-  "dni": "87654321B"
+  "name": "Carlos Ramos",
+  "dni": "12345678A"
 }
 ```
 
 ---
 
-## 🤝 Contribuciones
+## 📁 MariaDB Setup / SQL Scripts
 
-Las contribuciones están abiertas. Puedes enviar un *pull request* o abrir un *issue* para sugerencias, mejoras o reportes de errores.
+- Database managed using **HeidiSQL**
+- Schema includes a client table with the following fields:
+  - `id`, `name`, `dni`, `entryDate`, `status`
+
+(*Note: the repository does not contain any real personal data.*)
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
 **José González Herrera**  
-🌐 [github.com/JoseGlezHerrera](https://github.com/JoseGlezHerrera)
+🌍 [github.com/JoseGlezHerrera](https://github.com/JoseGlezHerrera)
 
 ---
 
-## 📄 Licencia
+## 📄 License
 
-Distribuido bajo la licencia MIT. Revisa el archivo [`LICENSE`](LICENSE) para más detalles.
+Distributed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
