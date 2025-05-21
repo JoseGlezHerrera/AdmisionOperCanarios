@@ -1,0 +1,144 @@
+[
+  {
+    "ContainingType": "JoseCarlosAdmisi\u00F3n.UsesCases.Roles.RolController",
+    "Method": "GetAll",
+    "RelativePath": "api/Rol/GetTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.EliminarUsuario.UsuarioController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Usuario/{UsuarioId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UsuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.CambiarPasswordUsuario.UsuarioController",
+    "Method": "CambiarPassword",
+    "RelativePath": "api/Usuario/CambiarPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.CambiarPasswordUsuario.CambiarPasswordUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.CrearUsuario.UsuarioController",
+    "Method": "CrearUsuario",
+    "RelativePath": "api/Usuario/Crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.CrearUsuario.CrearUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.DarBajaAltaUsuario.UsuarioController",
+    "Method": "DarBajaAlta",
+    "RelativePath": "api/Usuario/DarBajaAlta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.DarBajaAltaUsuario.DarBajaAltaUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.EditarUsuario.UsuarioController",
+    "Method": "Editar",
+    "RelativePath": "api/Usuario/Editar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.EditarUsuario.EditarUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.GetActivosUsuario.UsuarioController",
+    "Method": "GetActivos",
+    "RelativePath": "api/Usuario/GetActivos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.GetTodos.UsuarioController",
+    "Method": "GetTodos",
+    "RelativePath": "api/Usuario/GetTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.LoginUsuario.UsuarioController",
+    "Method": "Login",
+    "RelativePath": "api/Usuario/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.LoginUsuario.LoginUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.ResetearUsuario.UsuarioController",
+    "Method": "Resetear",
+    "RelativePath": "api/Usuario/Resetear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "JoseCarlosAdmisi\u00F3n.UsesCases.Usuarios.ResetearUsuario.ResetearUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

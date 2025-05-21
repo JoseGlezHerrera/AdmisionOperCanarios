@@ -1,0 +1,600 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\cambiarpasswordusuario\\cambiarpasswordusuarioinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\cambiarpasswordusuario\\cambiarpasswordusuarioinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88247DF5-E221-4126-A77C-91EC229B7227}|JoseCarlos.Infraestructure\\JoseCarlos.Infraestructure.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.infraestructure\\correo\\gestioncorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88247DF5-E221-4126-A77C-91EC229B7227}|JoseCarlos.Infraestructure\\JoseCarlos.Infraestructure.csproj|solutionrelative:josecarlos.infraestructure\\correo\\gestioncorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88247DF5-E221-4126-A77C-91EC229B7227}|JoseCarlos.Infraestructure\\JoseCarlos.Infraestructure.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.infraestructure\\correo\\configcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88247DF5-E221-4126-A77C-91EC229B7227}|JoseCarlos.Infraestructure\\JoseCarlos.Infraestructure.csproj|solutionrelative:josecarlos.infraestructure\\correo\\configcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.domain\\correo\\igestioncorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|solutionrelative:josecarlos.domain\\correo\\igestioncorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.domain\\correo\\iconfigcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|solutionrelative:josecarlos.domain\\correo\\iconfigcorreo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88247DF5-E221-4126-A77C-91EC229B7227}|JoseCarlos.Infraestructure\\JoseCarlos.Infraestructure.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.infraestructure\\gestion\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88247DF5-E221-4126-A77C-91EC229B7227}|JoseCarlos.Infraestructure\\JoseCarlos.Infraestructure.csproj|solutionrelative:josecarlos.infraestructure\\gestion\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\resetearusuario\\resetearusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\resetearusuario\\resetearusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.domain\\seguridad\\generadorclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|solutionrelative:josecarlos.domain\\seguridad\\generadorclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.domain\\seguridad\\encriptacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|solutionrelative:josecarlos.domain\\seguridad\\encriptacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\editar usuario\\editarusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\editar usuario\\editarusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88247DF5-E221-4126-A77C-91EC229B7227}|JoseCarlos.Infraestructure\\JoseCarlos.Infraestructure.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.infraestructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88247DF5-E221-4126-A77C-91EC229B7227}|JoseCarlos.Infraestructure\\JoseCarlos.Infraestructure.csproj|solutionrelative:josecarlos.infraestructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\getactivos\\getactivosusuariooutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\getactivos\\getactivosusuariooutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\editar usuario\\editarusuariooutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\editar usuario\\editarusuariooutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\editar usuario\\editarusuarioinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\editar usuario\\editarusuarioinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\editar usuario\\editarusuariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\editar usuario\\editarusuariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|solutionrelative:josecarlos.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\getactivos\\getactivosusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\getactivos\\getactivosusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\gettodos\\gettodosusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\gettodos\\gettodosusuariousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\getactivos\\getactivosusuariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\getactivos\\getactivosusuariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\usescases\\usuarios\\getactivos\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\usescases\\usuarios\\getactivos\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\usescases\\usuarios\\getactivos\\getactivosusuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\usescases\\usuarios\\getactivos\\getactivosusuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\usescases\\usuarios\\getactivos\\getactivosusuariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\usescases\\usuarios\\getactivos\\getactivosusuariomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.domain\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|solutionrelative:josecarlos.domain\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\usescases\\usuarios\\editarusuario\\editarusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\usescases\\usuarios\\editarusuario\\editarusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\usescases\\usuarios\\editarusuario\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\usescases\\usuarios\\editarusuario\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\usescases\\usuarios\\gettodos\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\usescases\\usuarios\\gettodos\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\gettodos\\gettodosusuariooutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\gettodos\\gettodosusuariooutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.domain\\josecarlos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A5E95CA-DB56-4A6C-93C5-B1A1F37882C9}|JoseCarlos.Domain\\JoseCarlos.Domain.csproj|solutionrelative:josecarlos.domain\\josecarlos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88247DF5-E221-4126-A77C-91EC229B7227}|JoseCarlos.Infraestructure\\JoseCarlos.Infraestructure.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.infraestructure\\gestion\\gestioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88247DF5-E221-4126-A77C-91EC229B7227}|JoseCarlos.Infraestructure\\JoseCarlos.Infraestructure.csproj|solutionrelative:josecarlos.infraestructure\\gestion\\gestioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlos.application\\usecases\\usuarios\\resetearusuario\\resetearusuarioinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1873111-2399-4E5F-A133-591D084A8B3D}|JoseCarlos.Application\\JoseCarlos.Application.csproj|solutionrelative:josecarlos.application\\usecases\\usuarios\\resetearusuario\\resetearusuarioinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\usescases\\usuarios\\resetearusuario\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\usescases\\usuarios\\resetearusuario\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\usescases\\usuarios\\resetearusuario\\resetearusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\usescases\\usuarios\\resetearusuario\\resetearusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|c:\\users\\usuario\\source\\repos\\josecarlosadmisi\u00F3n\\josecarlosadmisi\u00F3n\\usescases\\usuarios\\crearusuario\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E2451A-D70D-414A-AE7E-62359F7FF50D}|JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n.csproj|solutionrelative:josecarlosadmisi\u00F3n\\usescases\\usuarios\\crearusuario\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Domain\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Models\\Usuario.cs",
+              "RelativeToolTip": "JoseCarlos.Domain\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:59:51.052Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\Builder\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\Builder\\Program.cs",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\Builder\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:25:59.284Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\appsettings.json",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\appsettings.json",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T11:35:44.078Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Infraestructure\\Correo\\ConfigCorreo.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Infraestructure\\Correo\\ConfigCorreo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Infraestructure\\Correo\\ConfigCorreo.cs",
+              "RelativeToolTip": "JoseCarlos.Infraestructure\\Correo\\ConfigCorreo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:55:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CambiarPasswordUsuarioInput.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\CambiarPasswordUsuario\\CambiarPasswordUsuarioInput.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\CambiarPasswordUsuario\\CambiarPasswordUsuarioInput.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\CambiarPasswordUsuario\\CambiarPasswordUsuarioInput.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\CambiarPasswordUsuario\\CambiarPasswordUsuarioInput.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:59:07.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGestionCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Correo\\IGestionCorreo.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Domain\\Correo\\IGestionCorreo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Correo\\IGestionCorreo.cs",
+              "RelativeToolTip": "JoseCarlos.Domain\\Correo\\IGestionCorreo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:50:57.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IConfigCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Correo\\IConfigCorreo.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Domain\\Correo\\IConfigCorreo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Correo\\IConfigCorreo.cs",
+              "RelativeToolTip": "JoseCarlos.Domain\\Correo\\IConfigCorreo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:50:50.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionCorreo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Infraestructure\\Correo\\GestionCorreo.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Infraestructure\\Correo\\GestionCorreo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Infraestructure\\Correo\\GestionCorreo.cs",
+              "RelativeToolTip": "JoseCarlos.Infraestructure\\Correo\\GestionCorreo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:55:38.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Infraestructure\\Gestion\\DbContext.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Infraestructure\\Gestion\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Infraestructure\\Gestion\\DbContext.cs",
+              "RelativeToolTip": "JoseCarlos.Infraestructure\\Gestion\\DbContext.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwEkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:42:39.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetearUsuarioUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioUseCase.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioUseCase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioUseCase.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioUseCase.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:04:29.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeneradorClave.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Seguridad\\GeneradorClave.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Domain\\Seguridad\\GeneradorClave.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Seguridad\\GeneradorClave.cs",
+              "RelativeToolTip": "JoseCarlos.Domain\\Seguridad\\GeneradorClave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:41:09.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditarUsuarioOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioOutput.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioOutput.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioOutput.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:18:41.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Encriptacion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Seguridad\\Encriptacion.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Domain\\Seguridad\\Encriptacion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Seguridad\\Encriptacion.cs",
+              "RelativeToolTip": "JoseCarlos.Domain\\Seguridad\\Encriptacion.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:11:32.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetActivosUsuarioOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioOutput.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioOutput.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioOutput.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioOutput.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:49:47.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditarUsuarioUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioUseCase.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioUseCase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioUseCase.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioUseCase.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:00:41.087Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Infraestructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Infraestructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Infraestructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "JoseCarlos.Infraestructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwD0AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:53:19.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditarUsuarioInput.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioInput.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioInput.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioInput.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:59:41.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetActivosUsuarioUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioUseCase.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioUseCase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioUseCase.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioUseCase.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:23:23.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditarUsuarioMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioMapping.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioMapping.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioMapping.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\Editar Usuario\\EditarUsuarioMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:21:18.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\UsuarioController.cs",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:19:36.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetActivosUsuarioResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\GetActivosUsuarioResponse.cs",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\GetActivosUsuarioResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\GetActivosUsuarioResponse.cs",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\GetActivosUsuarioResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:05:43.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetTodosUsuarioUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\GetTodos\\GetTodosUsuarioUseCase.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\GetTodos\\GetTodosUsuarioUseCase.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\GetTodos\\GetTodosUsuarioUseCase.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\GetTodos\\GetTodosUsuarioUseCase.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:43:20.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetActivosUsuarioMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioMapping.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioMapping.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioMapping.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\GetActivos\\GetActivosUsuarioMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:20:51.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetActivosUsuarioMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\GetActivosUsuarioMapping.cs",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\GetActivosUsuarioMapping.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\GetActivosUsuarioMapping.cs",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetActivos\\GetActivosUsuarioMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:07:10.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Domain\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\Models\\Rol.cs",
+              "RelativeToolTip": "JoseCarlos.Domain\\Models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:53:47.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\EditarUsuario\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\EditarUsuario\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\EditarUsuario\\UsuarioController.cs",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\EditarUsuario\\UsuarioController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:15:30.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetTodos\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetTodos\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetTodos\\UsuarioController.cs",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\GetTodos\\UsuarioController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:56:29.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditarUsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\EditarUsuario\\EditarUsuarioRequest.cs",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\EditarUsuario\\EditarUsuarioRequest.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\EditarUsuario\\EditarUsuarioRequest.cs",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\EditarUsuario\\EditarUsuarioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:59:29.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetTodosUsuarioOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\GetTodos\\GetTodosUsuarioOutput.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\GetTodos\\GetTodosUsuarioOutput.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\GetTodos\\GetTodosUsuarioOutput.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\GetTodos\\GetTodosUsuarioOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:14:35.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JoseCarlos.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\JoseCarlos.Domain.csproj",
+              "RelativeDocumentMoniker": "JoseCarlos.Domain\\JoseCarlos.Domain.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Domain\\JoseCarlos.Domain.csproj",
+              "RelativeToolTip": "JoseCarlos.Domain\\JoseCarlos.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T12:23:33.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GestionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Infraestructure\\Gestion\\GestionContext.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Infraestructure\\Gestion\\GestionContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Infraestructure\\Gestion\\GestionContext.cs",
+              "RelativeToolTip": "JoseCarlos.Infraestructure\\Gestion\\GestionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:18:24.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ResetearUsuarioInput.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioInput.cs",
+              "RelativeDocumentMoniker": "JoseCarlos.Application\\UseCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioInput.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlos.Application\\UseCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioInput.cs",
+              "RelativeToolTip": "JoseCarlos.Application\\UseCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:03:19.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResetearUsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioRequest.cs",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioRequest.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioRequest.cs",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\ResetearUsuario\\ResetearUsuarioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:03:57.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\ResetearUsuario\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\ResetearUsuario\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\ResetearUsuario\\UsuarioController.cs",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\ResetearUsuario\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:20:03.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\CrearUsuario\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\CrearUsuario\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\JoseCarlosAdmisi\u00F3n\\JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\CrearUsuario\\UsuarioController.cs",
+              "RelativeToolTip": "JoseCarlosAdmisi\u00F3n\\UsesCases\\Usuarios\\CrearUsuario\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:20:07.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
